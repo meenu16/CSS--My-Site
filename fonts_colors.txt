@@ -1,0 +1,15 @@
+ Fonts:
+
+ <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Satisfy&family=Scheherazade+New&display=swap" rel="stylesheet">
+
+ body- font-family: 'Scheherazade New', serif;
+
+ h1- font-family: 'Satisfy', cursive;
+
+ h2- font-family: 'Fredoka One', cursive;
+
+ p- font-family: 'Scheherazade New', serif; 
+
+ 
+
+ colors:

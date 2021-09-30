@@ -1,0 +1,228 @@
+*
+{
+    box-sizing: border-box;
+}
+
+a
+{
+    text-decoration: none;
+
+    font-weight: bold;
+}
+
+body
+{
+    /*background-color: #FFE3E3; */
+    margin: 0px;
+    text-align: center;
+    font-family: 'Scheherazade New', serif;
+    
+}
+
+.btn
+{
+    border: 1px solid #FDD2BF;
+    border-radius: 10px;
+    box-shadow: 2px 2px #b2b2b2;
+    text-shadow: 2px 2px 3px #b2b2b2;
+    background-image: linear-gradient(to top, #FDD2BF, white);
+    color: #A45D5D;
+    font-size: 1.1rem;
+    height: 5%;
+    width: 15%;
+    padding: 5px;
+    margin: 50px auto;
+}
+
+.btn:hover
+{
+    background-image: linear-gradient(to bottom, #FDD2BF, white);
+}
+
+.bottom-decsc
+{
+    color: #f9f9f9;
+    font-size: 0.90rem;
+    padding: 20px 0px;
+}
+
+.cloud
+{
+    height: 90px;
+    width: 110px;
+    position: absolute;
+  
+}
+
+.c1
+{
+    left: 200px;
+    top: 250px;
+}
+
+.c2
+{
+    right: 280px;
+    top: 50px;
+}
+
+.contact-me
+{
+    padding: 50px;
+    height: 500px;
+}
+
+.contact-me-desc
+{
+    padding: 10px;
+    width: 30%;
+    margin: 40px auto;
+}
+
+.display-pic
+{
+    background-color: #FFFFFF;
+    height: 100px;
+    margin-top: 10px;
+    padding: 2px;
+    width: 100px;
+
+}
+
+.display-pic-html
+{
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+.display-pic-css
+{
+    width: 15%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+div.top-container
+{
+    background-color: #FDD2BF;
+  /*  background-image: url("../images/mountain.png");    */
+    padding-top: 100px;
+    width: 100%;
+    position: relative;
+   
+}
+
+div.middle-container
+{
+    padding: 100px;
+}
+
+div.bottom-container
+{
+    padding: 30px 0px 30px;
+    background-color: #FDD2BF;
+    height: 150px;
+    
+}
+
+div.skill-row
+{
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+div.button:hover
+{
+    cursor: pointer;
+
+}
+
+.footer-link
+{
+    font-size: 1.4rem;
+    font-family: 'Scheherazade New', serif;
+    font-weight: bold;
+    margin: 15px;
+    color: #A45D5D;
+}
+
+.footer-link:hover
+{
+    cursor: pointer;
+    color: #DF5E5E;
+    text-shadow: 2px 2px 3px #b2b2b2;
+}
+
+
+h1
+{
+    font-family: 'Satisfy', cursive;
+    font-size: 3.5rem;           /* 100%=16px;  70px== (70px/16)*100=437.5%   rem unit doesn't affected by parent's unit  */
+    margin: 50px auto 0px;
+    color: #DF5E5E;
+}
+
+h2
+{
+    font-size: 2.5rem;
+    font-family: 'Fredoka One', cursive;
+    font-weight: normal;
+    color: #DF5E5E;
+    
+}
+
+h3
+{
+    color: #A45D5D;
+    font-family: 'Scheherazade New', serif;
+}
+
+hr
+{
+    border-style: none;
+    border-top: 8px dotted #b2b2b2;
+    width: 5%;
+}
+
+#learn
+{
+    font-weight: normal;
+}
+
+#landscape
+{
+    display: inline-block;
+    margin: 0 auto;
+    
+}
+
+p
+{
+    line-height: 1.5;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.profile
+{
+    height: auto;
+    padding: 10px;
+}
+
+.profile-desc
+{
+    text-align: center;
+    width: 30%;
+    margin: 30px auto;
+}
+
+.skills
+{
+    padding: 10px;
+
+}
